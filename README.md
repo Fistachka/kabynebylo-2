@@ -7,7 +7,10 @@
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/Jgs4-MxOLio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Предыдущий урок: stolbitsa.com/fistachka/kabynebylo<br><br>
+
+Предыдущий урок: 
+![Кабы не было зимы - 1 часть](https://github.com/user-attachments/assets/08fcc333-458d-4aa9-a25e-2e08dcc05c20 =200x200)
+stolbitsa.com/fistachka/kabynebylo<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -17,7 +20,9 @@
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/dNFUohq2l1w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Previous lesson: stolbitsa.com/fistachka/kabynebylo
+Previous lesson: 
+![Кабы не было зимы - 1 часть](https://github.com/user-attachments/assets/08fcc333-458d-4aa9-a25e-2e08dcc05c20 =200x200)
+stolbitsa.com/fistachka/kabynebylo
 
 <br><br>
 
